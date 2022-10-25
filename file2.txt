@@ -1,0 +1,4 @@
+DeathSpiral 3 70
+TTP 8 140
+Sparkle 4 120
+Caribou 2 20
